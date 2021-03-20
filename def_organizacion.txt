@@ -1,0 +1,11 @@
+DEFINICIÓN INVESTIGADA: Aplicación de un conjunto de técnicas conducentes para que con la correspondiente división de actividades 
+y la debida coordinación de éstas, se obtenga la máxima rentabilidad del centro de cómputo.
+
+DEFINICIÓN PROPIA: Organización de un centro de cómputo es crear un modelo en el cuál se definan las jerarquías de actividades 
+que nos permita llevar a cabo los servicios que nuestro centro de cómputo va a proporcionar a los usuarios y el órden de los recursos 
+con los que contamos para proporcionar eficiencia en las operaciones de nuestro centro de cómputo.
+
+EJEMPLO: Si nuestro centro de cómputo imprime un comprobante obtenido de una base de datos y lo entrega en una ventannilla
+sería conveniente tener una impresora muy cerca de la ventanilla y que la computadora que esté controlando la impresora tenga acceso 
+a la base de datos de donde se obtienen los comprobantes en lugar de que cada vez que se reciba a una persona que necesite un comprobante
+el encargado de la ventanilla tenga que acceder a los datos en la computadora servidor e imprimirlos desde ahí.
